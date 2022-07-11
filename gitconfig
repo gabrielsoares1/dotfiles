@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gabriel_soares10@hotmail.com
+	name = Gabriel Teixeira Soares
